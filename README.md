@@ -50,7 +50,7 @@ A comprehensive REST API for managing visa applications and user information. Bu
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/visa-management-system.git
+git clone https://github.com/salujaavaneetkaur-a11y/visa-management-system.git
 cd visa-management-system
 ```
 
@@ -377,8 +377,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Author
 
 **Avaneet**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- GitHub: [@salujaavaneetkaur-a11y](https://github.com/salujaavaneetkaur-a11y)
+- Email: salujaavaneetkaur@gmail.com
 
 ## Acknowledgments
 
@@ -391,8 +391,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 For questions or support:
 - Open an issue on GitHub
-- Email: your.email@example.com
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
+- Email: salujaavaneetkaur@gmail.com
+- LinkedIn: [Avaneet Kaur Saluja](https://linkedin.com/in/avaneet-kaur-saluja)
 
 ---
 

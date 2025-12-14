@@ -1,0 +1,106 @@
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+.flattened-pom.xml
+
+# IDE - IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+*.iml
+out/
+
+# IDE - Eclipse
+.classpath
+.project
+.settings/
+.c9/
+
+# IDE - VS Code
+.vscode/
+*.code-workspace
+
+# IDE - NetBeans
+nbproject/
+.nb-gradle/
+
+# OSX
+.DS_Store
+
+# Misc
+*.log
+*.swp
+*.swo
+*.bak
+*~
+.env
+.env.local
+.env.*.local
+
+# Spring Boot
+application-dev.properties
+application-prod.properties
+application-local.properties
+
+# Build and run artifacts
+build/
+dist/
+*.jar
+!mvnw*.jar
+
+# Database files
+*.db
+*.sqlite
+*.h2.db
+
+# System files
+Thumbs.db
+.AppleDouble
+.LSOverride
+
+# Node (if using npm for frontend tools)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Java
+*.class
+*.jar
+*.war
+*.nar
+*.zip
+*.tar.gz
+*.rar
+
+# Gradle
+.gradle/
+build/
+
+# Maven Wrapper
+.mvn/wrapper/maven-wrapper.jar
+.mvn/wrapper/maven-wrapper.properties
+
+# IntelliJ
+*.iml
+.idea/
+out/
+
+# Sensitive data
+config/secrets.properties
+*.key
+*.pem
+.ssh/
+
+# Temp files
+tmp/
+temp/
+*.tmp
+
+# JUnit
+.junit*

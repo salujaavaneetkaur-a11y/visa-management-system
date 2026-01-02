@@ -1,4 +1,4 @@
-# Visa Management System
+# VisaFlow
 
 A comprehensive REST API for managing visa applications and user information. Built with Spring Boot 3.3.0 and Java 21 LTS.
 
